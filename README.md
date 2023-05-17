@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dhtmlx.com/blog/use-dhtmlx-scheduler-component-react-js-library-demo/">
+	<a href="https://dhtmlx.com/blog//">
 		<img src="https://dhtmlx.github.io/react-widgets/static/logo_r.svg" width="150" height="55">
 	</a>
 </p>
@@ -19,8 +19,7 @@ More features can be added due to rich functionality of dhtmlxScheduler: https:/
 yarn install
 ~~~
 or
-~~~ 
-npm install 
+~~~  
 ~~~
 
  - run server
@@ -43,10 +42,8 @@ npm start
 
 Star our GitHub repo :star:
 
-Watch our tutorials on [YouTube](https://www.youtube.com/user/dhtmlx/videos) :eyes:
+Watch our tutorials on [YouTube](https://www.youtube.com/user/dhtmlx/videos) 
+](https://medium.com/@dhtmlx) :newspaper:
 
-Read us on [Medium](https://medium.com/@dhtmlx) :newspaper:
-
-Follow us on [Twitter](https://twitter.com/dhtmlx) :feet:
-
-Like our page on [Facebook](https://www.facebook.com/dhtmlx/) :thumbsup:
+Follow us on [Twitter](https://twitcom/dhtmlx) :fee
+hijh
